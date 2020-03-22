@@ -1,0 +1,20 @@
+.card {
+	margin-bottom: 30px;
+	box-shadow: 0px 3px 16px #ccc;
+	transition: all 0.4s;
+}
+
+.card-title.h5 {
+	font-size: 1em;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.search {
+	margin: 2em 0;
+}
+
+.list-group-item {
+	text-transform: capitalize;
+}
